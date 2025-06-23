@@ -16,5 +16,4 @@ Description: it takes two numbers,operation to be performed as input from user t
 
 # Output
 
-![Image](https://github.com/user-attachments/assets/ecbfb1e4-c673-4771-b6de-4d0ac22f0622)
-
+![Image](https://github.com/user-attachments/assets/9ca71dd8-f7e1-4385-bfc2-628e0c097ae7)
